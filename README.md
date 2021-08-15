@@ -39,7 +39,7 @@ Book Search enginge is designed to help avid readers search for new books, and k
 
 ## Deployed Site
 
-Please visit the deployed site [here](https://notalivelinkyet.com).
+Please visit the deployed site [here](https://follestad-book-search.herokuapp.com/).
 
 ## Screenshot
 
