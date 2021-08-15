@@ -43,4 +43,7 @@ Please visit the deployed site [here](https://notalivelinkyet.com).
 
 ## Screenshot
 
-![Screenshot of site](ScreenShot.png)
+![Screenshot of site](images/Book-search-engine1.png)
+
+![Screenshot of site](images/Book-search-login.png)
+
