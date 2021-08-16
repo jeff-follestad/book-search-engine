@@ -47,5 +47,5 @@ Please visit the deployed site [here](https://follestad-book-search.herokuapp.co
 
 ![Screenshot of site](images/Book-search-login.png)
 
-![Screenshot of site](images/Google Book Sear.png)
+![Screenshot of site](images/Google-Book-Search.png)
 
